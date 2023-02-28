@@ -1,3 +1,3 @@
 # E-COMMERCE
 
-LIVE PREVIEW : https://ravikrishna1431.github.io/E-COMMERCE/
+LIVE PREVIEW : https://ravikrishnayadav.github.io/E-COMMERCE/
